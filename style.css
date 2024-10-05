@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background: url('ugaday_chislo webm.png');
+    background-size: cover;
+}
+
+input {
+    font-size: 16px;
+    padding: 5px;
+}
+
+button {
+    font-size: 16px;
+    padding: 5px 10px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+#resultMessage {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
